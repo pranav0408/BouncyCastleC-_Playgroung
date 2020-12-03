@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sign-Verify", "Sign-Verify\Sign-Verify.csproj", "{621AE350-0F50-478A-87E2-9785C2BA7FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncyCastle-ECC-prime256v1", "BouncyCastle-ECC-prime256v1\BouncyCastle-ECC-prime256v1.csproj", "{3F444DC2-F316-4A7A-A8B3-C1980907C22A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621AE350-0F50-478A-87E2-9785C2BA7FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621AE350-0F50-478A-87E2-9785C2BA7FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621AE350-0F50-478A-87E2-9785C2BA7FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621AE350-0F50-478A-87E2-9785C2BA7FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F444DC2-F316-4A7A-A8B3-C1980907C22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F444DC2-F316-4A7A-A8B3-C1980907C22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F444DC2-F316-4A7A-A8B3-C1980907C22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F444DC2-F316-4A7A-A8B3-C1980907C22A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\BouncyCastle_Implement_ECC384\bin\Debug\BouncyCastle_Implement_ECC384.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\BouncyCastle_Implement_ECC384\bin\Debug\BouncyCastle_Implement_ECC384.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\BouncyCastle_Implement_ECC384\bin\Debug\BouncyCastle.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\BouncyCastle_Implement_ECC384\bin\Debug\BouncyCastle.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\BouncyCastle_Implement_ECC384\obj\Debug\BouncyCastle_Implement_ECC384.csprojResolveAssemblyReference.cache
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\BouncyCastle_Implement_ECC384\obj\Debug\BouncyCastle_Implement_ECC384.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\BouncyCastle_Implement_ECC384\obj\Debug\BouncyCastle_Implement_ECC384.pdb

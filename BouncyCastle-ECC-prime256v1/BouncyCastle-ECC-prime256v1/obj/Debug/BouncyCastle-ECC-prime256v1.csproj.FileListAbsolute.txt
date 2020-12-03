@@ -1,0 +1,7 @@
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-prime256v1\BouncyCastle-ECC-prime256v1\bin\Debug\BouncyCastle_Implement.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-prime256v1\BouncyCastle-ECC-prime256v1\bin\Debug\BouncyCastle_Implement.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-prime256v1\BouncyCastle-ECC-prime256v1\bin\Debug\BouncyCastle.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-prime256v1\BouncyCastle-ECC-prime256v1\bin\Debug\BouncyCastle.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-prime256v1\BouncyCastle-ECC-prime256v1\obj\Debug\BouncyCastle_Implement.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-prime256v1\BouncyCastle-ECC-prime256v1\obj\Debug\BouncyCastle_Implement.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-prime256v1\BouncyCastle-ECC-prime256v1\obj\Debug\BouncyCastle-ECC-prime256v1.csprojResolveAssemblyReference.cache

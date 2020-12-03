@@ -1,0 +1,7 @@
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\BouncyCastle-Brainpool521t1\bin\Debug\BouncyCastle-Brainpool521t1.dll
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\BouncyCastle-Brainpool521t1\bin\Debug\BouncyCastle-Brainpool521t1.pdb
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\BouncyCastle-Brainpool521t1\bin\Debug\BouncyCastle.dll
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\BouncyCastle-Brainpool521t1\bin\Debug\BouncyCastle.pdb
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\BouncyCastle-Brainpool521t1\obj\Debug\BouncyCastle-Brainpool521t1.csprojResolveAssemblyReference.cache
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\BouncyCastle-Brainpool521t1\obj\Debug\BouncyCastle-Brainpool521t1.dll
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\BouncyCastle-Brainpool521t1\obj\Debug\BouncyCastle-Brainpool521t1.pdb

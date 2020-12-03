@@ -1,0 +1,10 @@
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\bin\Debug\Sign_Verify.exe.config
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\bin\Debug\Sign_Verify.exe
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\bin\Debug\Sign_Verify.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\bin\Debug\BouncyCastle_Implement_ECC384.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\bin\Debug\BouncyCastle.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\bin\Debug\BouncyCastle_Implement_ECC384.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\bin\Debug\BouncyCastle.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\obj\Debug\Sign_Verify.csprojResolveAssemblyReference.cache
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\obj\Debug\Sign_Verify.exe
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\BouncyCastle-ECC-384\Sign_Verify\obj\Debug\Sign_Verify.pdb

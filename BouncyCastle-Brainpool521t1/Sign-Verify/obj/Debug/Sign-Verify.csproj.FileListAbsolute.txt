@@ -1,0 +1,10 @@
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\bin\Debug\Sign-Verify.exe.config
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\bin\Debug\Sign-Verify.exe
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\bin\Debug\Sign-Verify.pdb
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\bin\Debug\BouncyCastle-Brainpool521t1.dll
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\bin\Debug\BouncyCastle.dll
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\bin\Debug\BouncyCastle-Brainpool521t1.pdb
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\bin\Debug\BouncyCastle.pdb
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\obj\Debug\Sign-Verify.csprojResolveAssemblyReference.cache
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\obj\Debug\Sign-Verify.exe
+c:\users\zeus811\documents\visual studio 2013\Projects\BouncyCastle-Brainpool521t1\Sign-Verify\obj\Debug\Sign-Verify.pdb
