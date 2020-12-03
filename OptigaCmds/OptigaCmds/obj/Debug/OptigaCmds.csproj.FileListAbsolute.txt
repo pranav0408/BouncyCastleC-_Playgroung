@@ -1,6 +1,0 @@
-c:\users\zeus811\documents\visual studio 2013\Projects\OptigaCmds\OptigaCmds\bin\Debug\OptigaCmds.exe.config
-c:\users\zeus811\documents\visual studio 2013\Projects\OptigaCmds\OptigaCmds\bin\Debug\OptigaCmds.exe
-c:\users\zeus811\documents\visual studio 2013\Projects\OptigaCmds\OptigaCmds\bin\Debug\OptigaCmds.pdb
-c:\users\zeus811\documents\visual studio 2013\Projects\OptigaCmds\OptigaCmds\obj\Debug\OptigaCmds.csprojResolveAssemblyReference.cache
-c:\users\zeus811\documents\visual studio 2013\Projects\OptigaCmds\OptigaCmds\obj\Debug\OptigaCmds.exe
-c:\users\zeus811\documents\visual studio 2013\Projects\OptigaCmds\OptigaCmds\obj\Debug\OptigaCmds.pdb
