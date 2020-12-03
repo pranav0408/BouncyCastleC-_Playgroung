@@ -1,0 +1,5 @@
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\HwInterface\obj\Debug\HwInterface.csprojResolveAssemblyReference.cache
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\HwInterface\bin\Debug\HwInterface.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\HwInterface\bin\Debug\HwInterface.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\HwInterface\obj\Debug\HwInterface.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\HwInterface\obj\Debug\HwInterface.pdb

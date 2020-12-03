@@ -1,0 +1,7 @@
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbCandescent\bin\Debug\BulbCandescent.dll
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbCandescent\bin\Debug\BulbCandescent.pdb
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbCandescent\bin\Debug\BulbInterface.dll
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbCandescent\bin\Debug\BulbInterface.pdb
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbCandescent\obj\Debug\BulbCandescent.csprojResolveAssemblyReference.cache
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbCandescent\obj\Debug\BulbCandescent.dll
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbCandescent\obj\Debug\BulbCandescent.pdb

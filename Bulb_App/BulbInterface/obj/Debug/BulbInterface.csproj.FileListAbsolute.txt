@@ -1,0 +1,5 @@
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbInterface\bin\Debug\BulbInterface.dll
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbInterface\bin\Debug\BulbInterface.pdb
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbInterface\obj\Debug\BulbInterface.csprojResolveAssemblyReference.cache
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbInterface\obj\Debug\BulbInterface.dll
+c:\Users\zeus811\documents\visual studio 2013\Projects\Bulb_App\BulbInterface\obj\Debug\BulbInterface.pdb

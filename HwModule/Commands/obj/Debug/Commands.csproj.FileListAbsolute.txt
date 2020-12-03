@@ -1,0 +1,8 @@
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\Commands\bin\Debug\Commands.exe.config
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\Commands\bin\Debug\Commands.exe
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\Commands\bin\Debug\Commands.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\Commands\bin\Debug\HwInterface.dll
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\Commands\bin\Debug\HwInterface.pdb
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\Commands\obj\Debug\Commands.exe
+C:\Users\zeus811\Documents\Visual Studio 2013\Projects\HwModule\Commands\obj\Debug\Commands.pdb
